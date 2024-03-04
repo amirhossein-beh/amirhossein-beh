@@ -1,8 +1,8 @@
 # My GitHub Profile
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](https://avatars.githubusercontent.com/u/128216541?s=96&v=4)
 
-Hi, I'm [Your Name]! Welcome to my GitHub profile.
+Hi, I'm [amirhossein behnoosh]! Welcome to my GitHub profile.
 
 ## Profile Views
 
@@ -10,11 +10,15 @@ Hi, I'm [Your Name]! Welcome to my GitHub profile.
 
 ## Skills
 
-- Python
+- Vue js 
+- vuetify
 - JavaScript
 - HTML
 - CSS
 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,Vue,discord,github,git,vuetify)
+
 ## Contact Me
 
-- LinkedIn: [Arman A](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [amirhossein beh](https://www.linkedin.com/in/amir-hossein-behnoosh-04575b202/)
+- twitter: [https://twitter.com/AmirHossein_beh]
