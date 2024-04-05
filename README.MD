@@ -2,7 +2,7 @@
 
 ![Profile Picture](https://avatars.githubusercontent.com/u/128216541?s=96&v=4)
 
-Hi, I'm [amirhossein behnoosh]! Welcome to my GitHub profile.
+Hi, I'm amirhossein behnoosh! Welcome to my GitHub profile.
 
 ## Profile Views
 
