@@ -11,12 +11,13 @@ Hi, I'm amirhossein behnoosh! Welcome to my GitHub profile.
 ## Skills
 
 - Vue js 
+- angular
 - vuetify
 - JavaScript
 - HTML
 - CSS
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,vuejs,discord,github,git,vuetify,phpstorm,mysql)
+![My Skills](https://skillicons.dev/icons?i=js,angular,html,css,nodejs,vscode,vuejs,discord,github,git,vuetify,phpstorm,mysql)
 
 ## Contact Me
 
