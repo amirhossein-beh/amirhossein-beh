@@ -17,7 +17,7 @@ Hi, I'm amirhossein behnoosh! Welcome to my GitHub profile.
 - HTML
 - CSS
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,scss,nodejs,vuejs,vuetify,discord,github,git,phpstorm,vscode,intelij,mysql)
+![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css,sass,nodejs,java,vuejs,vuetify,discord,github,git,phpstorm,vscode,idea,mysql)
 
 ## Contact Me
 
